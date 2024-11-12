@@ -19,8 +19,7 @@ ALPHABET = 'abc'
 with open('mt.tur', encoding="utf8") as mtFile, \
      open('mmt.tur', encoding="utf8") as mmtFile:
     MT = Turing(mtFile.read())
-    MMT = Turing(mmtFile.read(), 4)
-
+    MMT = Turing(mmtFile.read(), 3)
 
 class CheckWordThread(QThread): # поток для проверки слова
     stepPassed = pyqtSignal(str)

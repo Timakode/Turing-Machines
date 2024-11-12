@@ -1,0 +1,14 @@
+q₀abbbbbccc	q₀λ	q₀λ	q₀λ
+q₁bbbbbccc	aq₁λ	q₁λ	q₁λ
+q₃bbbbccc	aq₃λ	q₃λ	q₃λ
+q₄bbbccc	aq₄λ	q₄λ	q₄λ
+q₅bbccc	aq₅λ	q₅λ	q₅λ
+q₆bccc	aq₆λ	q₆λ	q₆λ
+q₂ccc	aq₂λ	bq₂λ	q₂λ
+q₈cc	aq₈λ	bq₈λ	q₈λ
+q₉c	aq₉λ	bq₉λ	q₉λ
+q₇λ	aq₇λ	bq₇λ	cq₇λ
+q₁₀λ	q₁₀a	q₁₀b	q₁₀c
+q₁₀λ	q₁₀λ	q₁₀λ	q₁₀λ
+qz1	qzλ	qzλ	qzλ
+Слово «abbbbbccc» принадлежит языку (12 тактов).
